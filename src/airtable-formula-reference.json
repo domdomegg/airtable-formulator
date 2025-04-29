@@ -78,6 +78,7 @@
     "ARRAYCOMPACT": {},
     "ARRAYFLATTEN": {},
     "ARRAYUNIQUE": {},
+    "ARRAYSLICE": {},
     "RECORD_ID": {},
     "REGEX_MATCH": {},
     "REGEX_EXTRACT": {},
